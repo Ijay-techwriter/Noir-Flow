@@ -1,2 +1,2 @@
 # Noir-Flow
-Noir Flow is a dark, moody, mobile‑responsive email template built directly in Klaviyo’s drag‑and‑drop builder. Designed for a premium nightclub vibe, it integrates personalization tags, supports deliverability testing, and helps functional beverage brands launch campaigns with style and trust.
+Noir Flow is a dark, moody, mobile‑responsive email template built directly in Klaviyo’s drag‑and‑drop builder. Designed for a premium nightclub vibe, it integrates personalization tags, supports deliverability testing, and helps functional beverage brands launch campaigns with style and trust. This template is a demonstration project. Social media links are placeholders for testing purposes.
